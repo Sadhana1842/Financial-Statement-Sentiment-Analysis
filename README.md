@@ -1,2 +1,5 @@
 # Financial-Statement-Sentiment-Analysis
-Project Repository
+In this captivating project, we are delving into the intricate world of sentiment analysis within the financial domain. Our focus is on the sentiment expressed in the Federal Open Market Committee (FOMC) statements, employing the advanced FinBert model. By harnessing the power of natural language processing, we aim to decipher the nuanced sentiment embedded in these critical financial communications. Beyond sentiment analysis, our endeavor extends to predicting the potential impact of these sentiments on equity prices, providing valuable insights for investors and market analysts. 
+
+GUI:
+To enhance accessibility and user interaction, we are concurrently developing a user-friendly graphical interface using Streamlit. This graphical user interface (GUI) will serve as a dynamic platform for users to explore and visualize the sentiment trends within FOMC statements and understand their potential implications on equity markets. Join us on this journey at the intersection of finance, natural language processing, and user interface design, where we seek to empower users with actionable insights from the ever-evolving landscape of financial communications.
